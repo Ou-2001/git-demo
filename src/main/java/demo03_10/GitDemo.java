@@ -8,5 +8,6 @@ public class GitDemo {
         System.out.println("hot-fix add code here!");
         System.out.println("master add new code here!");
         System.out.println("hot-fix add new code here too!");
+        System.out.println("push test");
     }
 }
